@@ -1,0 +1,47 @@
+body{ background-color: #F0E68C	;} 
+p { color: black; } 
+h3{ color: white; }
+
+table {
+background-color:#cd853f;
+font: 15px montserrat, sans-serif;
+color:black;
+margin-right: 20px;
+}
+
+form {
+background-color:#F0E68C	;
+font: 15px montserrat, sans-serif;
+color:black;
+border-radius: 10px;
+
+}
+
+select {
+background-color:#CD853F;
+font: 15px montserrat, sans-serif;
+color:black;
+border-radius: 10px;
+}
+
+input {
+background-color: #f5dec8cc;
+font: 15px montserrat, sans-serif;
+color:black;
+border-radius: 10px;
+}
+
+.botao {
+background-color:#FFFFE0;
+font: 15px montserrat, sans-serif;
+color:black;
+margin-right: 20px;
+}
+
+.chavepk {
+background-color:#F5FFFA;
+font: 15px montserrat, sans-serif;
+color:black;
+margin-right: 20px;
+}
+
